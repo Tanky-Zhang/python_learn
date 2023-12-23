@@ -1,0 +1,1 @@
+{"code":200,"msg":"success","result":{"en":"Friendship is like wine---the older the better.","zh":"友谊象美酒,越陈越醇厚."}}
